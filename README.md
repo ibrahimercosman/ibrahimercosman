@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm İbrahim Ercoşman
 
-<!--
-**ibrahimercosman/ibrahimercosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st-year Computer Engineering student at Opole University of Technology  
+💻 Learning C++ as my main programming language  
+🌱 Exploring Git, GitHub, and basic web development
 
-Here are some ideas to get you started:
+### 🔧 Technologies I'm Learning
+- C++
+- Git & GitHub
+- HTML / CSS / JavaScript (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Strengthen my C++ fundamentals
+- Build small but useful projects
+- Gain confidence with Git & GitHub
+- Improve step by step throughout university
+
